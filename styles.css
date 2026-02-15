@@ -1,0 +1,34 @@
+* {
+    margin:0;
+    padding: 0;
+}
+
+li {
+    list-style-type: none;
+    display: inline-block;
+}
+
+a {
+    text-decoration: none;
+    display: inline-block;
+    padding: 5px 15px;
+    background-color: rgb(44, 57, 114);
+    color: white;
+    margin: 5px 15px;
+    width: 200px;
+    height: 30px;
+    align-content: center;
+    cursor: pointer;
+}
+
+a:hover {
+    background-color: rgb(42, 163, 194);
+}
+
+h1 {
+    text-align: center;
+    background-color: rgb(92, 1, 5);
+    color: white;
+    padding: 10px;
+    margin-bottom: 30px;
+}
